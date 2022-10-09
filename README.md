@@ -1,3 +1,6 @@
+--  Uploading Tested Version of BOTOrder repo, Next time would like to try this challenge in Automation Studio
+    Also PythonPath settings in VSCode was always a challenge.
+
 # Template: Standard Robot Framework
 
 This is the simplest template to start from.
